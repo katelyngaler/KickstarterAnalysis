@@ -18,7 +18,7 @@ This chart clearly shows that May has the highest number of successes. June and 
 ### Analysis of Outcomes Based on Goals
 For the goal based analysis, the countifs command was used to look at number of successful, failed, and canceled campaigns in certain goal ranges, and focused only on the subcategory plays. This information was plotted in a line graph to show how the successes and failures changed as the goal amount increased. This is shown in the chart below.
 
-![Outcomes_vs_Goals](C:\Users\kgaler\Git\ClassFiles\CrowdFundingAnalysis\Resources\Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
 
 This chart shows that low campaign amounts, less than $5000 had the highest number of successes and campaigns above $45,000 had the lowest number of successes. Inbetween these values the success and failure numbers varied. 
 
