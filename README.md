@@ -11,7 +11,7 @@ The purspose of this analysis is to show how success versus failure rates for th
 ### Analysis of Outcomes Based on Launch Date
 For the date based analysis, a pivot table and pivot chart were used to examine the data. The number of successful, failed, and canceled campaigns were tallied by each month of the year in the pivot table. The table could be sorted by parent category or year. For this particular set, parent category was selected as Theater. The chart below shows this information graphically.
 
-![Theater_Outcomes_vs_Launch](C:\Users\kgaler\Git\ClassFiles\CrowdFundingAnalysis\Resources\Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
 
 This chart clearly shows that May has the highest number of successes. June and July are also months with high success rates. This was not due purely to a higher number of campaigns because the number of failures remained similar to other months. The month with the lower success rate was December, and it is similar to the number of failures. The number of canceled campaigns was relatively low and consistent by month.
 
