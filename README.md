@@ -26,7 +26,7 @@ This chart shows that low campaign amounts, less than $5000 had the highest perc
 One of the challenges in this analysis was ensuring that the countifs formula had all the necessary parameters and then finding an easy way to duplicate it for all the combinations. When using the Countifs function, in order to compare one cell to another the syntax is "=" &CELL is needed, which is different than just "=1000" or "=successful" used for constant parameters. Using the cell command allows copying the cells for failed and canceled without having to manually update the formula for each.
 
 ## Results
-The Full analysis is located here: KickStarter_Challenge.zip
+The Full analysis is located here: [kickstarter_Challenge.zip](KickStarter_Challenge.zip)
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 1. Launching a campaig in May is more likely to result in success, followed closely by June and July.
